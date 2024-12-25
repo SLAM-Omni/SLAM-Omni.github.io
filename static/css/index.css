@@ -137,7 +137,7 @@ body {
 }
 
 .results-carousel .item {
-  margin: 0 10px;          /* 视频之间的水平间距 */
+  margin: 0 0px;          /* 视频之间的水平间距*/
   padding: 0;              /* 移除不必要的 padding */
   width: 750px;             /* 视频宽度 */
 }
