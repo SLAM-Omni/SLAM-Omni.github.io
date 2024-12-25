@@ -145,7 +145,7 @@ body {
 .results-carousel video {
   display: block;          /* 移除多余的空白 */
   margin: 0 auto;          /* 视频在容器内居中 */
-  max-width: 100%;         /* 确保响应式 */
+  max-width: 85%;         /* 确保响应式 调整视频占整个容器的比例，85差不多*/
   height: auto;
 }
 
